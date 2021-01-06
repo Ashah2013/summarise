@@ -22,7 +22,7 @@ Table of Content
 
   # Idea of Application
   Built a Extractive text summariser as people as short of time...additionally how efficiently algorithms works to summarise the given texts by writing a gold summary as a reference can be evaluated.
-  -Extractive text summariser (create summary from phrases or sentences in source document)
+  - Extractive text summariser (create summary from phrases or sentences in source document)
 
   # Technical Aspect
   It summarizes text using two algorithms-
