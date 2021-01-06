@@ -9,14 +9,17 @@ Table of Content
    - [Bug](#Bug)
    
   # Screenshot 
-  ![prev](https://user-images.githubusercontent.com/63425649/102718342-a95cd000-430d-11eb-9ed4-f20b70c6a7a9.JPG)
+  ![Capture](https://user-images.githubusercontent.com/63425649/103823508-3b97fe80-5098-11eb-9267-029f3041a2fb.JPG)
 
-  ![curr](https://user-images.githubusercontent.com/63425649/102718387-e032e600-430d-11eb-9902-2a2a1368b8c9.JPG)
+  ![1Capture](https://user-images.githubusercontent.com/63425649/103823645-7d28a980-5098-11eb-8f7e-5950d2bd3399.JPG)
+  ![2Capture](https://user-images.githubusercontent.com/63425649/103823695-96315a80-5098-11eb-87bd-bd8fd3da82d4.JPG)
+![3Capture](https://user-images.githubusercontent.com/63425649/103823735-ab0dee00-5098-11eb-8396-9b5815eaec97.JPG)
 
-  ![run](https://user-images.githubusercontent.com/63425649/102718372-cf827000-430d-11eb-94d1-862e1b9a987e.JPG)
+  ![4Capture](https://user-images.githubusercontent.com/63425649/103823758-b95c0a00-5098-11eb-9314-8ac371e0cb61.JPG)
+![5Capture](https://user-images.githubusercontent.com/63425649/103823816-d0026100-5098-11eb-83cf-ddd795f593b9.JPG)
+![6Capture](https://user-images.githubusercontent.com/63425649/103823832-db558c80-5098-11eb-8297-0b6b80e2c484.JPG)
+![7Capture](https://user-images.githubusercontent.com/63425649/103823868-e6a8b800-5098-11eb-9789-b31d21466fe2.JPG)
 
-  ![end](https://user-images.githubusercontent.com/63425649/102718407-f3de4c80-430d-11eb-9c55-7229d9dc2575.JPG)
-  
   # Idea of Application
   Built a Extractive text summariser as people as short of time...additionally how efficiently algorithms works to summarise the given texts by writing a gold summary as a reference can be evaluated.
   -Extractive text summariser (create summary from phrases or sentences in source document)
@@ -51,6 +54,6 @@ python manage.py runserver
 ```
   
   # Bug
-  Incase any bug is found, kindly open an issue [here](https://github.com/Ashah2013/voiceAssistant/issues/new) by including your search query and the expected result.
+  Incase any bug is found, kindly open an issue [here](https://github.com/Ashah2013/summarise/issues) by including your search query and the expected result.
   
 
