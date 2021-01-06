@@ -13,7 +13,7 @@ SECRET_KEY = 'u%f%6yj&jhgm_0)y^^f92%9hmt!*)5_(ml*!+8*ae+9gt6bw$w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1:8080','https://summarisetext.herokuapp.com/']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -30,7 +30,6 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
